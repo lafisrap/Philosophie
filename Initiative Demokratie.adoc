@@ -1,6 +1,5 @@
 :imagesdir: images
 
-
 = 5. initiative Demokratie
 
 image::titlebar.jpg[Titelhintergrund,width=100%]
@@ -20,11 +19,11 @@ Sie zeigen sich in unserer Zeit in global agierenden Konzernen, mächtigen Regie
 
 Der einzelne Mensch steht den wachsenden Machtkonzentrationen scheinbar immer machtloser gegenüber.
 Was soll er gegen den Willen von Konzernen, Regierungen, Armeen usw. tun?
-Wie kann er Initiative ergreifen?
+Wie kann er Initiative ergreifen, wenn etwas nicht im Interesse dieser Institutionen liegt?
 Wie kann er das, was er aus sich heraus verändern will, tatsächlich verändern?
 
 Wenn das, was wir ändern wollen, politisch ist, wenn es andere Menschen in unserer Umgebung betrifft, in unserer Stadt oder dem Land, in dem wir leben, können wir Bürgerinitiativen gründen, Petitionen einreichen, bei Behörden Anträge stellen, Parteien gründen oder … Politiker wählen, die das, was wir ändern wollen, für uns ändern sollen.
-Was aber, wenn wir keinen Politiker finden, der das will, was wir wollen, oder wenn die bestehenden Strukturen so komplex sind, wenn die beteiligten Menschen miteinander streiten und sich gegenseitig blockieren oder wenn Machtkonzentrationen dafür sorgen, dass auch der Politiker nicht das ändern kann, was er ändern will?
+Was aber, wenn wir keinen Politiker finden, der das will, was wir wollen, oder wenn die bestehenden Strukturen zu komplex sind, wenn die beteiligten Menschen miteinander streiten und sich gegenseitig blockieren oder wenn Machtkonzentrationen dafür sorgen, dass auch der Politiker nicht das ändern kann, was er ändern will?
 
 Wir brauchen heute ein kraftvolleres Grundkonzept für Demokratie.
 Eines, das stark genug ist, die Entwicklung zu immer mehr Machtkonzentration umzukehren.
@@ -33,7 +32,7 @@ Wir brauchen Grundgedanken, die die Macht wieder zurückfließen lassen zu den e
 Aber entsteht dann nicht Chaos?
 Ist nicht eine starke Hand notwendig, um Ordnung zu schaffen?
 Ist es eine gute Idee, wenn man Macht auf viele Menschen innerhalb eines Volkes verteilt?
-Das ist die gleiche Frage wie: Funktioniert Demokratie überhaupt oder funktionieren klare Hierarchien, Befehlsketten, Diktaturen oder starke Führungspersönlichkeiten besser?
+Das ist die gleiche Frage wie: Funktioniert Demokratie überhaupt? Oder funktionieren klare Hierarchien, Befehlsketten, Diktaturen oder starke Führungspersönlichkeiten nicht doch besser?
 Mit klaren Strukturen zu leben, haben wir in unserer Geschichte gründlich geübt.
 Wir wissen, dass Hierarchien funktionieren und wie sie funktionieren.
 Aber unser Herz will sie nicht mehr, weil wir uns nicht mehr unterwerfen wollen, weil wir das Gefühl haben, mitmachen zu wollen an der Weiterentwicklung der Gesellschaft, und das nicht anderen überlassen.
@@ -65,45 +64,49 @@ Initiative Demokratie ist initiative Zusammenarbeit* im politischen, im gesellsc
 Für initiative Zusammenarbeit gibt es schon großartige Beispiele wie das Linux-Projekt.
 Sie funktioniert auf dem Gebiet der Software-Entwicklung seit Jahrzehnten.
 Die Grundprinzipien haben sich als stark genug erwiesen, um selbst Manipulations- und Unterdrückungsversuchen von großen Unternehmen, Regierungen, Geheimdiensten, kriminellen Organisationen usw. stand zu halten.
-Ein Beispiel ist die Verschlüsselungssoftware GPG, die in jedem Linux zu finden ist und im Kern nicht von Geheimdiensten geknackt werden kann: Sie ist allgemein bekannt, es gibt sie seit fast 20 Jahren, es ist klar, wer daran arbeitet und sie wird weiter entwickelt.
-Wenn Geheimdienste GPG stoppen könnten, dann würden sie es tun.
-Aber sie können nicht.
+Auf eine Weise sind sie unzerstörbar.
+Linux ist im Internet das vorherrschende Server-Betriebssystem.
+Wenn Microsoft oder andere Unternehmen, die Server-Betriebssysteme anbieten, Linux hätten stoppen oder übernehmen können, dann hätten sie es getan.
 
-Wie ist das möglich? Welche Grundprinzipien sind so stark, dass sie dem standhalten können? Zunächst sind es zwei: Der sog. „benevolent dictator“, der großmütige Diktator, der die Geschicke eines Projekts bestimmt, und die freie Übernahme jedes Projekts, das sog. „Klonen“ oder „Forken“ (Gabeln).
-In einer initiativen Demokratie kann jeder Mensch jederzeit ein politisches "Projekt" starten, z.B. um ein neues Gesetz zu entwickeln, ein bestehendes zu ändern oder auch eine konkrete Aufgabe anzugehen, z.B. das Konzept für eine Spielstraße zu entwickeln, oder für eine Fußgängerbrücke, irgendetwas, bei dem unterschiedliche Interessen aufeinander treffen.
-Alles, was er oder sie braucht ist das Talent oder die Fähigkeit, das Gesetz oder ein Konzept zu entwickeln.
+Wie ist das möglich? Welche Grundprinzipien sind so stark, dass sie allem standhalten können? Zunächst sind es zwei: Auf der einen Seite der sog. „benevolent dictator“, der großmütige Herrscher, der Eigentümer des Projekts, der dessen die Geschicke bestimmt, und auf der anderen die freie Übernahme jedes Projekts, das sog. „Klonen“ oder „Forken“ (Gabeln).
+
+In einer initiativen Demokratie kann jeder Mensch jederzeit ein politisches "Projekt" starten, z.B. um ein neues Gesetz zu entwickeln, ein bestehendes zu ändern oder auch eine konkrete Aufgabe anzugehen, z.B. das Konzept für eine Spielstraße oder für eine Fußgängerbrücke zu entwickeln.
+Alles, was er oder sie braucht ist das Talent oder die Fähigkeit, das Gesetz oder das Konzept zu entwickeln.
 Wenn er oder sie das nicht hat, dann macht es nicht viel Sinn, ein eigenes Projekt zu starten.
 Dann kann man bei anderen Projekten mithelfen, indem man dort konkrete Vorschläge macht.
 
-Dadurch, dass jemand ein Projekt startet, wird er oder sie darin zur (großmütigen) Diktatorin.
+Dadurch, dass jemand ein Projekt startet, wird er oder sie darin zur (großmütigen) Herrscherin.
 Das heißt, sie kann alleine entscheiden, was in das Projekt aufgenommen wird und was nicht.
 Allerdings wird alles aufgezeichnet, was sie macht.
 Jeder Schritt bleibt auch über Jahre hinweg für alle nachvollziehbar.
 Man kann nichts vertuschen.
-Sie kann natürlich auch andere „Co-Diktatoren“ in das Projekt mit aufnehmen und ihnen alle Rechte zugestehen, die sie auch hat, aber das werden in der Regel sehr wenige sein.
+Sie kann natürlich auch andere „Co-Herrscher“ in das Projekt mit aufnehmen und ihnen alle Rechte zugestehen, die sie auch hat.
+Aber es wird in der Regel sehr wenige Herrscher in einem Projekt geben.
 Alle anderen Menschen können jederzeit konkrete Änderungsvorschläge (sog. Pull Requests) machen: Das und das würde ich so und so im Projekt ändern, hinzufügen oder wegnehmen.
 Nicht beschreiben, was man ändern will, sondern tatsächlich ändern.
 Der Projekt-Initiator kann dann mit einem Klick entscheiden, ob er den Vorschlag annimmt oder nicht.
 In der Regel sind Projekt-Initiatoren über Änderungsvorschläge (Pull-Requests) sehr froh.
-Sie zeigen Interesse, Anteilnahme an seinem Projekt und manchmal sind bei Vorschlägen echte Perlen dabei, die sein Projekt einen guten Schritt voranbringen.
-Er muss nur einmal klicken und das Projekt wird wertvoller.
+Sie zeigen Interesse und Anteilnahme an seinem Projekt und manchmal sind bei Vorschlägen echte Perlen dabei, die sein Projekt einen guten Schritt voranbringen.
+Er muss dann nur einmal klicken und das Projekt wird wertvoller.
 
 In der Macht der Projekt-Initiatorin liegt aber auch die Gefahr einer Machtkonzentration.
 Was ist, wenn sie einen Vorschlag von mir ablehnt, den ich aber für sinnvoll halte oder für notwendig?
 Dann kommt das zweite Prinzip ins Spiel: Die freie Übernahme.
 Ich kann das komplette Projekt jederzeit und zum aktuellen Stand kopieren und dann daran in meinem Sinne weiterarbeiten.
-Durch das Kopieren werde ich zum Diktator im kopierten Projekt und kann alle Änderungen, die ich machen will, vornehmen, ohne irgendjemanden zu fragen.
+Durch das Kopieren werde ich zum Herrscher im kopierten Projekt und kann alle Änderungen, die ich machen will, vornehmen, ohne irgendjemanden zu fragen.
 Andere Menschen können dann sehen, dass es ab jetzt zwei Versionen des Projekts gibt und entscheiden, welches von beiden sie unterstützen wollen, oder ob sie beide unterstützen wollen.
 Wenn sich herausstellt, dass ich mein Projekt besser führen kann, dann werden sie meines wählen.
 Soweit funktioniert das Prinzip im Software-Umfeld sehr gut.
-Initiative Demokratie braucht noch weitere Grund-Prinzipien.
+Initiative Demokratie braucht aber noch weitere Grund-Prinzipien.
 
 Idealerweise entstehen viele unterschiedliche Projekte zu allen möglichen Themen, mit lokalem, regionalem, nationalen oder globalem Wirkungsbereich.
 Was jedes einzelne Projekt tatsächlich macht, wie gut es das macht, wie realistisch es ist, wie gut es zu anderen Projekten passt, ist in vielen Fällen für die meisten Menschen schwer einzuschätzen.
-Damit Demokratie eine gesunde Grundlage bekommt, muss jeder verstehen können, was ein Projekt will und welche Auswirkungen es auf die Gesellschaft hat.
+Bei Software ist dies ein einfacheres Problem.
+Damit Demokratie eine gesunde Grundlage bekommen kann, muss jeder verstehen können, was ein Projekt will und welche Auswirkungen es auf ihn und auf die Gesellschaft hat.
 Er muss nicht unbedingt verstehen, wie ein Projekt aufgebaut ist, wie es entwickelt wird, nur wie es sich auswirkt.
 Ähnlich wie man nicht verstehen muss, wie ein Arzt zu einer Diagnose kommt und eine Heilungsmethode findet, aber was für eine Krankheit es ist und warum die gewählte Heilungsmethode sie heilen kann.
 Wenn man das nicht weiß, verliert man seine Freiheit.
+Und das ist oft gefährlich.
 
 Für dieses Verständlich-Machen gibt es neben den Projekten eine weitere Ebene: die der Themen.
 Genauso wie man jederzeit ein Projekt anlegen kann, kann man auch jederzeit ein Thema anlegen, oder eines kopieren, um dann im eigenen Sinne daran weiter zu arbeiten.
@@ -117,12 +120,12 @@ Seine Hauptaufgabe besteht aber darin, die Projekte in seinem Thema für jederma
 
 Für eine initiative Demokratie ist neben Projekten und Themen noch eine dritte Ebene nötig: die der Politiker.
 Gemeint sind hier aber nicht Politiker im herkömmlichen Sinne.
-Vielleicht wird es deswegen nötig sein, ein anderes Wort zu verwenden, vielleicht Volksvertreter.
-Diese neue Art von Politiker kümmert sich nicht mehr darum, was ein Gesetz oder ein Vorhaben enthält, oder darum Kompromisse zwischen verschiedenen Interessengruppen zu vermitteln.
+Vielleicht wird es deswegen nötig sein, ein anderes Wort wie Volksvertreter zu verwenden.
+Diese neue Art von Politiker kümmert sich _nicht_ mehr darum, was ein Gesetz oder ein Vorhaben enthält oder enthalten soll, oder darum _Kompromisse_ zwischen verschiedenen Interessengruppen zu vermitteln.
 Er schaut sich Projekte und Themen an, er lernt sie kennen.
-Es ist auch nicht mehr seine Hauptaufgabe, Gesetze und Vorhanden verständlich zu machen.
+Es ist auch nicht mehr seine Hauptaufgabe, Gesetze und Vorhaben verständlich zu machen.
 Seine Hauptaufgabe besteht darin, dass er auf die Bevölkerung schaut, dass er in dieser Bevölkerung einen Strom von Menschen findet, die in eine bestimmte Richtung gehen wollen und die er dabei unterstützen will, z.B. im Hinblick auf eine ökologische Orientierung der Gesellschaft, und dann sucht er aus den Themen und Projekten diejenigen aus, die dazu am besten passen und macht sie sich zu eigen.
-Er sagt: Dafür stehe ich.
+Er sagt: Dafür stehe ich!
 Wenn ich gewählt werde, dann werden diese Projekte realisiert.
 
 Das Neue an einer initiativen Demokratie ist, dass Politiker an Gesetzen nichts direkt ändern können, auch nicht daran, welche Projekte ein Thema umfasst.
@@ -131,16 +134,15 @@ Und das ist bedeutsam!
 Dadurch verteilt sich die Macht auf diejenigen Menschen, die machen:
 Die Projekt-Initiatoren schauen darauf, dass das Gesetz oder das Konzept für ein Vorhaben realistisch und sinnvoll ist.
 Die Themen-Initiatoren darauf, dass die Projekte verständlich sind und zusammen harmonieren.
-Die Politiker darauf, dass das, was in der Bevölkerung lebt, sein Abbild in Projekten und Themen findet.
+Die Politiker schauen darauf, dass das, was in der Bevölkerung lebt, sein Abbild in Projekten und Themen findet.
 
 == Ein Beispiel: Ein neues Steuersystem
 
 Nehmen wir an, jemand hat sich im Leben viel mit Steuersystemen befasst, sowohl theoretisch als auch seine Kämpfe mit Finanzamt, Steuererklärungen und Nachzahlungen gehabt.
-Das Thema interessiert ihn sehr.
-Es ist seine Leidenschaft.
+Das Thema ist seine Leidenschaft.
 Er empfindet das derzeitige Steuersystem in Deutschland als ungerecht und ineffizient.
 Er legt ein Projekt an: "Vereinfachtes Steuersystem".
-In diesem Projekt beschreibt er in einem kurzen Text, was er ändern möchte, wie er das schaffen will und warum genau er glaubt, das gut zu können.
+In diesem Projekt beschreibt er in einem kurzen Text, was er ändern möchte, wie er das schaffen will und warum er glaubt, das genau er das gut kann.
 Er erstellt daraufhin eine Übersicht über seine Informationsgrundlage, eine Liste der betroffenen Gesetze, die er aus der Literatur gut kennt, und macht einen groben Entwurf, wie sein Steuergesetz aussehen soll.
 Er macht das Projekt dann bei allen Menschen bekannt, die aus seiner Sicht daran Interesse haben könnten und bald treffen die ersten Vorschläge ein, was man daran verbessern könnte, erweitern, besser strukturieren usw.
 
@@ -149,7 +151,7 @@ Er findet darin einige seiner Ideen wieder und ihm gefällt die übersichtliche 
 Er entscheidet sich, einige Änderungsvorschläge im Richtung auf sein eigenes System zu machen.
 Für den Projekt-Initiator passen die Vorschläge sehr gut, er nimmt sie auf.
 Und nachdem einige Zeit immer wieder gute Vorschläge kommen, fragt der Initiator den Autor, ob er nicht ins Projekt ganz einsteigen will.
-Das bedeutet, dass er nicht mehr nur Vorschläge machen, sondern direkt das ändern kann, was er ändern will.
+Das bedeutet, dass er nicht mehr nur Vorschläge machen, sondern ohne zu fragen direkt das ändern kann, was er ändern will.
 Zum einen ist dafür natürlich gegenseitiges Vertrauen nötig, weil Streitfälle immer einvernehmlich gelöst werden müssen, zum anderen gibt es dem Projekt eine neue Dynamik.
 Der Autor willigt ein und nimmt in die nächste Auflage seines Buches ein Kapitel über das Projekt mit auf.
 Das macht das Projekt in größeren Kreisen bekannt, die Medien interessieren sich dafür, immer mehr Menschen verfolgen, was in dem Projekt passiert, sprechen darüber, machen praktische Vorschläge.
@@ -190,28 +192,30 @@ Der in ihm enthaltene Gesetzestext wird einige Monate später eins zu eins als G
 == Die Heiligtümer der Demokratie
 
 In unserer Zeit scheint im öffentlichen Leben nichts heilig zu sein, das heißt: unantastbar oder auch heilend.
-Für das Heilige sind die Kirchen zuständig, und es darf nur im privaten Umfeld leben, nicht im politischen Leben.
+Für das Heilige sind die Kirchen zuständig, und es darf nur im privaten Umfeld leben, nicht im politischen.
 (Auch nicht in christlichen Parteien.)
 Für eine initiative Demokratie gilt dies nicht.
 Hier gibt es zwei Dinge, die unantastbar sind.
 
 Das erste ist *die Initiative des einzelnen Menschen*.
 Eigene Initiative birgt enorme Kräfte.
-Wenn ein Mensch für andere aus seinen Fähigkeiten, aus seinem eigenen Antrieb heraus etwas Neues schafft, dann gelingt das nicht nur besser, er bekommt dadurch auch Kräfte zurück.
-Zu sehen, wie ein anderen Mensch genau das braucht, was ich, und in gewisser Weise, nur ich, geben kann, ist eine der größten Kraftquellen des Lebens.
+Wenn ein Mensch für andere aus seinen Fähigkeiten, aus seinem eigenen Antrieb heraus etwas Neues schafft, dann gelingt das nicht nur besser, er bekommt dadurch auch Kräfte anstatt sie zu verlieren.
+Zu sehen, wie ein anderen Mensch genau das braucht, was ich, und in gewisser Weise, _nur_ ich, geben kann, ist eine der größten Kraftquellen des Lebens.
 Das Leben wird durch solche Erlebnisse erfüllt.
-Auch nach Jahren noch strömt einem Kraft entgegenWenn, man an solche Erlebnisse zurück denkt.
+Auch nach Jahren noch strömt einem Kraft entgegen, wenn man an solche Erlebnisse zurückdenkt.
 Eines der größten Geschenke, die man jemandem machen kann, ist deswegen, etwas zu brauchen, was er geben kann.
 
 Wenn Initiative gebrochen wird, durch Kritik, Bedenken äußern, Bedingungen setzen, Bewertungen, theoretische Vorschläge, Einschüchterung oder Manipulation, wird der Mensch dadurch gelähmt, es lässt ihn verhärten.
 
 Wie kann ich als eine große, etablierte Partei, eine junge, aufstrebende Partei lähmen, die gerade dabei ist, die Herzen der Menschen zu erobern? Ich schicke ein paar meiner Anhänger in ihre Reihen, die überall die Initiative hemmen, die kritisieren, exotische Standpunkte verteidigen, Streit vom Zaun brechen, immer wieder Bedenken äußern usw.
 In einer Umgebung, in der Meinungsfindung über Diskussionen, Debatten, Abmachungen und Abstimmungen stattfindet, ist es dadurch relativ leicht möglich, alles zum Erliegen zu bringen.
-Sobald über den Inhalt von Gesetzen oder Vorhaben diskutiert wird, kann Initiative nur schwer überleben.
-Und in solch einer Umgebung gibt es dann oft keine andere Möglichkeit sich zu bewegen, als Machtkonzentrationen zu bilden, die Entscheidungsgewalt an sich ziehen und Dinge durchzusetzen.
+Sobald überhaupt über den Inhalt von Gesetzen oder Vorhaben diskutiert wird, kann Initiative nur schwer überleben.
+Mit Diskutieren ist hier gemeint, dass man über verschiedenste Alternativen nicht nur spricht, sondern dabei auch glaubt, dass es gut wäre, wenn der andere die eigene Meinung übernimmt.
+In solch einer Umgebung gibt es dann oft keine andere Möglichkeit sich zu bewegen, als Machtkonzentrationen zu bilden, die Entscheidungsgewalt an sich zu ziehen und Dinge durchzusetzen.
 Mit der Zeit werden die Menschen, die die Macht an sich gezogen haben, über andere bestimmen, das heißt immer mehr Initiative ersticken.
 Die junge Partei, die es mit dem Schutz der Initiative ihrer Mitglieder nicht ernst nimmt, wird sich zu einer Partei entwickeln, die Machtkonzentrationen bildet.
-Sie wird gleichzeitig auch das Alter-Ego von Machtkonzentrationen zeigen: mathematisches Gerechtigkeitsstreben, das heißt Quoten, Einheitstarife, Kompromisse und Gleichverteilung anstreben.
+Sie wird gleichzeitig auch das Alter-Ego von Machtkonzentrationen zeigen: mathematisches Gerechtigkeitsstreben, das heißt Quoten, Einheitstarife, Kompromisse und Gleichverteilung fordern.
+Das ist im Prinzip dasselbe, nur von der gegenüberliegenden Seite angeschaut.
 
 ====
 In einer initiativen Demokratie muss Initiative geschützt werden.
@@ -219,7 +223,7 @@ In einer initiativen Demokratie muss Initiative geschützt werden.
 
 Wenn der Initiator eines Projekts in der initiativen Demokratie zu einem Gespräch über sein Projekt einlädt und jemand dazu kommt, der einzelne Punkte seines Projekts kritisiert oder Änderungen verlangt, kann der Initiator immer sagen:
 ____
-Du hast zwei Möglichkeiten: Entweder du schickst einen "Pull-Request", einen Vorschlag, was du wie konkret ändern willst, dann schaue ich mir das an und entscheide, ob das zu meinem Projekt passt oder nicht, oder du "forkst", du kopierst mein Projekt und änderst, was auch immer du ändern willst, selbst.
+Du hast zwei Möglichkeiten: Entweder du schickst einen "Pull-Request", einen Vorschlag, was du auf welche Weise konkret ändern willst, dann schaue ich mir das an und entscheide, ob das zu meinem Projekt passt oder nicht, oder du "forkst", du kopierst mein Projekt und änderst, was auch immer du ändern willst, selbst.
 Alle anderen können sehen, dass es einen neuen "Fork" gibt und können sich dir anschließen.
 In diesem Gespräch hier geht es nur darum, dass du mein Projekt besser verstehst und dass ich besser verstehe, was die Menschen, die es betrifft, brauchen und wollen.
 ____
@@ -234,7 +238,7 @@ Selbst das Hinzufügen oder Weglassen eines einzelnes Kommas würde bemerkt.
 Eine weitere Forderung im Hinblick auf die Wahrheit ist, dass alle Fakten und gedanklichen Verbindungen, auf denen das Projekt fußt oder die es verwendet, stimmen sollen.
 Falsche Fakten und Gedankenfehler sind vergleichbar mit Programmierfehlern in Software.
 Solche Fehler werden in Software-Projekten in der Regel als sog.
-"Issues", als Probleme oder Fragen, dem Projekt gemeldet.
+"Issues", als "Probleme" oder "Fragen", dem Projekt gemeldet.
 Sie erscheinen dort, ebenfalls nicht manipulier- oder löschbar, in einer Issues-Liste.
 Projekt-Eigner können Fragen beantworten, Probleme beheben und dann als behoben kennzeichnen oder auch als irrelevant ablehnen.
 Sie werden Letzteres in der Regel begründen.
@@ -243,7 +247,7 @@ Die Issues-Liste ist oft ein aussagekräftiger Gradmesser für die Qualität ein
 Und sie hilft dabei, ein Projekt zu "heilen".
 
 Dass Initiative und Wahrheit geachtet werden, ist entscheidend dafür, ob eine Gruppe von Menschen, eine Schulgemeinschaft, ein Unternehmen, eine Stadt, ein Land, reif ist für Demokratie.
-Man kann von Menschen aber nicht Initiative und Wahrheit fordern.
+Man kann von Menschen nicht Initiative und Wahrheit fordern.
 Sie müssen aus ihrem inneren eigenen Antrieb heraus kommen.
 Initiative und Wahrheit sind Forderungen im Hinblick auf eine neue Stufe von Demokratie.
 Ob Menschen auf dieser Stufe leben wollen oder leben können, das kann erst der Versuch zeigen, sie zu erreichen.
@@ -259,13 +263,13 @@ Wenn wir zum Beispiel das "Projekt" angehen, für Freunde ein Abendessen zu koch
 Wir überlegen wer was gerne isst, vielleicht wer welche Unverträglichkeit hat, wer überhaupt kommen kann.
 Wir planen, was wir für das Essen brauchen, kaufen ein und fangen an die Zutaten zuzubereiten.
 Alles, ohne irgendjemanden um Erlaubnis zu fragen.
-Was Sinn für einen macht, das kann man angehen.
+Was Sinn für einen macht, das kann man machen.
 
 Wenn nun ein Freund oder eine Freundin in die Küche kommt, wird sie vielleicht schauen, was wir gerade machen und fragen ob sie helfen kann.
 Sie wird uns vielleicht auch vorschlagen, etwas anders oder zusätzlich zu machen (Pull-Request), aber sie wird uns die Freiheit lassen, ob wir das annehmen oder nicht.
 Wenn sie etwas ganz anderes essen will, dann kann sie ein eigenes kleines "Projekt" starten und z.B. einen Salat machen.
 In diesem Projekt ist sie dann der gutmütige Herrscher.
-Auf jeden Fall wird sie nicht unsere Schneidetechnik bemängeln, sich laut Sorgen darüber machen, ob das Essen gut gewürzt ist, uns vor die Wahl stellen, etwas entweder so zu machen oder beleidigt zu sein.
+Auf jeden Fall wird sie nicht unsere Schneidetechnik bemängeln, sich Sorgen darüber machen, ob das Essen gut gewürzt ist, uns vor die Wahl stellen, etwas entweder so zu machen oder beleidigt zu sein.
 Sie wird nicht sagen: Oh, das machst du aber gut! Oder schlecht.
 Sie wird uns nicht drohen oder versuchen, mir in einem unbemerkten Augenblick etwas ins Essen zu schmuggeln.
 Unsere Initiative bleibt unangetastet - zumindest lebt im persönlichen Umfeld der Wille, das so zu tun.
@@ -276,21 +280,22 @@ Wir selbst werden auch nicht einfach Fleisch ins Essen mogeln, wenn wir Vegetari
 Und jeder darf alles wissen, was in der Küche passiert, woher das Essen kommt etc. Prinzipien der initiativen Demokratie werden im persönlichen Umfeld heute schon überall gelebt.
 
 Sobald wir aber auch nur einen Schritt ins öffentliche Leben machen: in die Schule, an die Arbeitsstelle oder in eine Behörde gehen, ändert sich das.
+Auch wenn wir in Beziehungen in Streit geraten.
 Plötzlich gibt es überall Geheimnisse, es wird überlegt, wer was erfahren darf oder soll, es werden Dinge unter den Teppich gekehrt.
 Man hört überall Bewertungen und Kritik, es werden Bedenken geäußert, man stößt überall auf Bedingungen:
-Nur wenn du das machst, dann bekommst du das ... oder nur dann bin ich zufrieden ... nur dann bekommen wir keinen Streit.
+Nur wenn du das machst, dann bekommst du das ... oder nur dann bin ich zufrieden ... nur dann bekommen wir keinen Streit oder legen ihn bei.
 Es ist wichtig, ob man etwas gut oder schlecht macht (fürs eigene Lernen ist es übrigens viel besser etwas (unabsichtlich) schlecht zu machen, beim gut machen lernt man weniger).
-Außerdem gibt es Anweisungen, was man zu tun hat, Drohungen etc.
+Zudem gibt es oft Anweisungen, was man zu tun hat, Drohungen etc.
 Das alles wird oft als völlig normal angesehen und erlebt:
 So ist die Welt nun mal.
 Unser Denken dreht sich um, sobald wir in weniger persönliche Bereiche kommen.
 
 Woran liegt das?
 Es liegt daran, dass das Leben in diesen Bereichen weniger überschaubar ist.
-Wir kennen die Menschen weniger und die Verbindungen sind komplexer und dadurch unberechenbarer. 
+Wir kennen die Menschen weniger oder sehen sie weniger und die Verbindungen sind komplexer und dadurch unberechenbarer.
 Neben Geld und Macht ist Sicherheit oder Berechenbarkeit in unserer Zeit eine der drei Gottheiten der äußeren Welt.
 Um die Welt berechenbarer zu machen, haben sich starke Regelkorsetts herausgebildet.
-Außerdem gibt ein Netz von Vorrechten, die sich an Titel, Ausbildung, Besitz, Positionen, Gewohnheit heften, die im persönlichen Umfeld immer weniger bedeuten.
+Außerdem gibt ein Netz von Vorrechten, die sich an Titel, Ausbildung, Besitz, Positionen und Gewohnheiten heften, die im persönlichen Umfeld immer weniger bedeuten.
 Niemand hat im persönlichen Umfeld Weisungsbefugnis über den anderen.
 Das ist schlicht deswegen so, weil wir als Menschen nicht so gemacht sind, dass wir gerne Befehle befolgen und uns unterordnen, wenn wir etwas selbstständig tun können.
 Wenn wir in ein Umfeld kommen, wo wir uns noch nicht auskennen, dann folgen wir gerne jemandem, der sich auskennt.
@@ -302,12 +307,12 @@ Und das versuchen wir zu leben, überall, wo das möglich ist.
 
 Unsere äußeren Strukturen bilden diese Tatsachen noch nicht gut ab.
 Sie heften sich an ein Menschenbild, das überkommen ist, das einer Vergangenheit angehört, in der es Familienoberhaupte gab, in der Kinder ihre Eltern gesiezt haben, in der es Massen von "Königen" und "Unterkönigen" mit allen möglichen Bezeichnungen überall im Leben gab.
-Man braucht im öffentlichen Leben komplexere vorgegebene Strukturen als im persönlichen, um in größeren Gruppen sinnvoll kommunizieren zu können.
+Man braucht im öffentlichen Leben mehr vorgegebene Strukturen als im persönlichen, um in größeren Gruppen sinnvoll kommunizieren zu können.
 Vielleicht wird auch das in einer ferneren Zukunft nicht mehr nötig sein, wenn jeder Einzelne die Komplexität der Kommunikation in großen Gruppen genügend durchschaut, und wenn er seinen ureigenen Beitrag zur Gemeinschaft erkennt.
 Das ist ähnlich wie beim Tanzen.
 Es gibt Tanzschritte, die man anwenden kann, um leichter in eine gemeinsame Kommunikation in der Bewegung zu kommen.
 Durch viel Übung mit den vorgegebenen Schritten kann man dann irgendwann dazu kommen, dass man sich gemeinsam ganz frei über die Tanzfläche bewegt und sich dann fühlt als ob man fliegt.
-Dann führt niemand mehr.
+Dann führt auch niemand mehr.
 An diese Stelle kann man auch ohne vorgegebene Schritte kommen, aber es erfordert wesentlich mehr Aufmerksamkeit, Erfahrung und Übung.
 
 Wir haben noch nicht sehr viel Erfahrung und Übung, im öffentlichen, im politischen Leben nach unserer eigentlichen Natur als Mensch zu leben: auf der gleichen Ebene mit allen anderen, ohne Unterdrückung, unter Wahrung von Initiative und Wahrheit.
@@ -315,8 +320,8 @@ Deswegen brauchen wir Strukturen, z.B. die initiative Demokratie, damit wir in d
 Die Alternative wäre, dass wir weiterhin im öffentlichen Leben nicht so leben wie wir sind, dass wir dort nach Regeln leben, die unserem Wesen nicht entsprechen.
 Und das ist keine dauerhafte Alternative.
 Auf diesem Weg bräuchten wir mehr und mehr Auszeiten, Ausatmen, Ablenkungen, Ersatzerlebnisse im persönlichen Umfeld.
-Die Sehnsucht ginge mehr und mehr vom Gemeinschaftlichen weg, hin zum Persönlichen, zum Ausatmen, zum Ausruhen, Urlaub machen, ohne das Regelkorsett des Alltags sein.
-Wir würden Kraft verlieren, Druck erleben, Zwänge, Routine, Langeweile, Leere.
+Die Sehnsucht ginge mehr und mehr vom Gemeinschaftlichen weg, hin zum Persönlichen, zum Ausruhen, Urlaub machen, ohne das Regelkorsett des Alltags sein.
+Wir würden im Alltag Kraft verlieren, Druck erleben, Zwänge, Routine, Langeweile, Leere.
 Und wir würden den Kontakt zueinander immer mehr verlieren.
 
 Die Ausbreitung der initiativen Demokratie geht darüber, dass die Lage, in der wir stecken, mehr und mehr Menschen bewusst wird.
@@ -324,7 +329,7 @@ Je mehr der Einzelne die wirkliche Situation versteht, den Widerspruch, dass wir
 Und es kann klein anfangen.
 Ein kleines Projekt, dann noch eines und noch eines, dann eine Plattform im Internet, wo die Projekte in übersichtlicher Weise erscheinen können und die eine Zusammenarbeit unterstützt.
 Dann ein erstes Thema, das Projekte zusammenfasst und irgendwann wird sich der erste Politiker ein Thema zu eigen machen und es in die heutige reale Welt der Politik tragen.
-Die Unzerstörbarkeit solcher Projekte, die sich im Software-Bereich seit Jahrzehnten bewährt hat, wird dann dafür sorgen, dass sich die initiative Demokratie in der Geschwindigkeit durchsetzen wird, in der die Menschen das wollen und können.
+Die Unzerstörbarkeit solcher Projekte wird dann dafür sorgen, dass sich die initiative Demokratie in der Geschwindigkeit durchsetzen wird, in der die Menschen das wollen und können.
 Das ist demokratische Entwicklung.
 
 == Wie weit kann initiative Demokratie gehen?
@@ -333,7 +338,7 @@ Wie weit kann das Prinzip der freien Software (Free software / open source) gehe
 Könnte alle Software weltweit offen entwickelt werden? Sicherlich, ja.
 Die Gesetze und Vorhaben in einer initiativen Demokratie genauso. Selbst ein so großes Gesetzesvorhaben wie TTIP kann öffentlich entstehen, wenn es in seinen Teilen von großmütigen Herrschern entwickelt wird und jederzeit von jedem "geforkt" werden kann.
 Aus welchen Ebenen von Themen, Unterthemen, Projekten und Unterprojekten ein TTIP bestehen würde, muss die Praxis zeigen.
-Auf jeden Fall müssten sich Bürgerinitiativen  dann nicht mehr darauf beschränken zu demonstrieren, zu informieren und Lobby-Arbeit zu machen, sondern sie können praktische Vorschläge, "Pull-Requests" schicken und vor allem auch sich die Projektteile zu eigen machen, die sie ändern wollen.
+Auf jeden Fall müssten sich Bürgerinitiativen dann nicht mehr darauf beschränken zu demonstrieren, zu informieren und Lobby-Arbeit zu machen, sondern sie können praktische Vorschläge, "Pull-Requests" schicken und vor allem auch sich diejenigen Projektteile zu eigen machen, die sie ändern wollen.
 
 Gesetze und gesellschaftliche Vorhaben im Dunkeln entstehen zu lassen, mit unklarer Verantwortlichkeit und Entscheidungsfindung, ist sicherlich prinzipiell undemokratisch.
 Genauso wie Software, in die man nicht hineinschauen darf.
@@ -359,6 +364,17 @@ Initiative Demokratie ist eine Mitmach-Demokratie, in der bewährte Prinzipien z
 Von keiner Macht der Welt.
 Eine solche stabile Grundlage brauchen wir, um in der Geschwindigkeit, die uns liegt, zu üben und zu lernen wie die nächste Stufe der Demokratie funktioniert.
 
+---
+
+====
+Hier endet die eigentliche Beschreibung der initiativen Demokratie.
+Du verpasst nichts, wenn du an dieser Stelle mit dem Lesen aufhörst.
+Alles, was ich dazu sagen wollte, ist gesagt.
+Was ab hier folgt, ist eine philosophische Darstellung eine Denkebene tiefer als das Vorangegangene, nichts Neues im Hinblick auf initiative Demokratie.
+====
+
+---
+
 == Aufhebung von Machtkonzentrationen und mathematischem Gerechtigkeitsstreben
 
 Je mehr initiative Demokratie teil der Kultur werden wird, umso mehr werden vorhandene Mechanismen zum Schutz von Machtkonzentrationen und Gerechtigkeitsstreben darauf ansprechen.
@@ -374,14 +390,14 @@ Menschen sollen Angst bekommen und gleichzeitig beruhigt sein, dass jemand da is
 
 Dass eine "verstärkte Fähigkeit der Polizei" dabei bedeutet, dass sie sich Trojaner-Programme besorgen, in die Computern von Verdächtigen einbrechen und sie dort installieren, um Daten abzufangen, bevor sie ins Tor-Netz gehen oder wenn sie aus dem Tor-Netz kommen, das wir dabei nicht gesagt.
 Auch nicht, dass sie das nicht nur bei Verdächtigen, sondern auch bei Bekannten von Verdächtigen und Bekannten von Bekannten von Verdächtigen tun wollen.
-Amerikaner nennen das: "two hops", zwei Sprünge bis zum Ziel.
+Amerikaner nennen das: "two hops", zwei Sprünge zum Ziel der Überwachung.
 Es gibt sogar eine Tendenz zum dritten "hop", das hat z.B. die NSA vor einige Zeit vorgeschlagen: Bekannten von Bekannten von Bekannten von Verdächtigen zu Zielpersonen zu machen.
 Das ist mehr oder weniger die gesamte Bevölkerung, wenn man die Hunderten von Bekannten zu Grunde legt, die die meisten Menschen auf Facebook oder Whatsapp als Freunde haben.
 
 Alleine wenn die Polizei oder ein Geheimdienst in einer Demokratie solche Fähigkeiten hat, ist das eine Bedrohung der Freiheit der Menschen.
 Das heißt nicht, dass Polizei und Geheimdienst nicht solche Fähigkeiten haben sollen, aber es soll bekannt sein, welche Fähigkeiten sie haben und, einige Zeit nachdem sie jeweils eingesetzt wurden, auch bekannt werden, wie sie eingesetzt wurden.
 Wenn eine Überwachungsaktion beendet ist, muss in einer Demokratie jeder erfahren können, der daran beteiligt war, was mit ihm getan wurde.
-Nur so ist eine demokratische Weiterentwicklung möglich.
+Nur so ist hier eine demokratische Weiterentwicklung möglich.
 Und auch die Verhinderung von Missbrauch.
 
 Angst und Hoffnung machen sind auch das Ziel von Shitstorms, von Mobbing über soziale Netzwerke.
@@ -389,13 +405,13 @@ Sobald man in sozialen Netzwerken über der Wahrnehmungsschwelle ist, kann es pa
 Man kann dann schnell zurückrudern, erklären, entschuldigen und versuchen die Dynamik einzudämmen.
 Falls das nicht gelingt, kommt oft schnell die prinzipielle Drohung von Shitstorms zum Vorschein: Entweder Unterwerfung unter die in der Shitstorm-Gruppe anerkannten Regeln (political correctness) oder Ausschluss aus der Gemeinschaft.
 
-Wenn man sich in einer solchen Shitstorm-Gruppe befindet, fühlt man sich andererseits in einer schützenden Gemeinschaft.
+Wenn man sich auf der anderen Seite, innerhalb einer solchen Shitstorm-Gruppe befindet, fühlt man sich andererseits in einer schützenden Gemeinschaft.
 Man stellt zusammen mit anderen jemanden bloß, der aus der eigenen Sicht etwas Verwerfliches getan hat.
 Man fühlt sich mächtig, wenn man sieht, wie jemand auf diesen Druck hin sein Verhalten ändert.
-Wenn man das Prinzip auf sein persönliches Umfeld anwenden würde, würde man allerdings schnell merken, dass die negativen Folgen (Misstrauen, Angst, Entfremdung) den Gewinn (in der Regel Sicherheit, Berechenbarkeit) in der Regel weit übersteigen.
+Wenn man das Prinzip auf sein persönliches Umfeld anwenden würde, würde man allerdings schnell merken, dass die negativen Folgen (Misstrauen, Angst, Entfremdung) den Gewinn (in der Regel Sicherheit, Berechenbarkeit) oft weit übersteigen.
 
 Im Prinzip sind Shitstorms für Projekte und Themen der initiativen Demokratie nicht gefährlich, weil sie versuchen über Kritik Verhalten zu beeinflussen.
-Gegenüber Kritik sind Projekte und Themen eigentlich immun (wenn sich die jeweiligen großmütigen Diktatoren auch als solche begreifen).
+Gegenüber Kritik sind Projekte und Themen eigentlich immun (wenn sich die jeweiligen großmütigen Herrscher auch als solche begreifen).
 Bloße Kritik macht nie Sinn.
 Es gibt immer die Möglichkeit, praktische Vorschläge zu machen, oder sich eine Kopie eines Projekts zu eigen zu machen.
 Aber zum einen werden Projekt-Initiatoren nicht immer so konsequent sein wie Linus Thorvalds in seinen über 25 Jahren im Linux-Kernel-Projekt, zum anderen gibt es einige mögliche Angriffe, die auf Missverständnissen beruhen.
@@ -405,10 +421,10 @@ Der Initiator kann als nicht kompromissbereit, nicht kritikfähig, stur etc.
 gebrandmarkt werden.
 Linus Thorvalds sagte einmal, dass er seine Projekte immer nach ihm benennt: Linus = Linux.
 Sein zweites großes Projekt nannte er Git, das ist englisch für Idiot, Depp, Blödmann.
-Viele Menschen sprechen ihm heute noch seine sozialen Fähigkeiten ab, auch weil er als großmütiger Diktator konsequent standhaft geblieben ist.
+Viele Menschen sprechen ihm heute noch seine sozialen Fähigkeiten ab, auch weil er als großmütiger Herrscher konsequent standhaft geblieben ist.
 
 Ein anderes Beispiel ist, dass jemand sagt: "Gesetze müssen mit einer Vielzahl von Interessengruppen abgestimmt werden, um nicht unsinnig oder realitätsfremd zu werden.
-Wenn ein Projekt-Initiator macht, was er will, kann nichts Brauchbares herauskommen." Der Einwand fällt dem Missverständnis zum Opfer, dass ein Projekt-Initiator, der macht, was er will, genauso das Interesse hat, sein Projekt mit Interessengruppen abzustimmen.
+Wenn ein Projekt-Initiator macht, was er will, kann nichts Brauchbares herauskommen." Der Einwand fällt dem Missverständnis zum Opfer, dass ein Projekt-Initiator, der macht, was er will, nicht auch das Interesse hat, sein Projekt mit Interessengruppen abzustimmen.
 Er wird dies tun, wenn er die Interessen als berechtigt empfindet.
 Interessengruppen können auch mit praktischen Vorschlägen auf ihn zukommen.
 Wenn diese abgelehnt werden, können andere sehen, dass und envt. warum sie abgelehnt wurden.
@@ -430,7 +446,7 @@ Bedürfnisse der Menschen werden dadurch aktiviert oder neu geschaffen, dass sic
 Es wird bei Werbung meistens gezielt auf etwas hingewiesen, was in diese Bereiche fällt.
 Versicherungswerbung macht naturgemäß immer beides gleichzeitig: Angst vor einer Situation, die möglicherweise auf einen zukommt, und die Hoffnung, dass man sich darüber keine Sorgen zu machen braucht.
 Versichern ist _das_ Geschäft mit Angst und Hoffnung.
-Aber auch Autowerbung arbeitet mit beidem: die Hoffnung auf aufregende oder überlegene Gefühle, wenn man ein neues Auto kauft, oder die Angst, als Verlierer da zu stehen, wenn man ein altes, billiges, rosiges Auto fährt.
+Aber auch Autowerbung arbeitet mit beidem: die Hoffnung auf aufregende oder überlegene Gefühle, wenn man ein neues Auto kauft, oder die Angst, als Verlierer da zu stehen, wenn man ein altes, billiges Auto fährt.
 
 Die Gefahr für Projekte und Themen der initiativen Demokratie ist hier eigentlich auch eine theoretische, aber im wirklichen Leben möglicherweise eine sehr praktisch drohende.
 Theoretisch deswegen, weil das, was die Werbung in voreingenommener Weise macht, in einer objektiveren Weise von Themen gemacht wird.
@@ -438,7 +454,7 @@ Werbung ist in der Regel Eigenlob.
 Eigenlob bei Projekten der initiativen Demokratie kommt nicht gut an.
 Man stellt dar, wie etwas ist, man kann die Vorzüge herausstellen, aber man schafft durch Betonung oder Weglassen von Tatsachen kein unwirkliches Bild vom Projekt.
 Und das allgemeinverständliche Bild eines Projektes und dessen Verbindungen zu anderen Projekten darzustellen ist Sache eines Themas.
-Und Themen-Initiatoren sind genauso großmütige Diktatoren wie Projekt-Initiatoren.
+Und Themen-Initiatoren sind genauso großmütige Herrscher wie Projekt-Initiatoren.
 Sie machen in ihrem Bereich genau das, was sie wollen.
 
 Was aber wenn eine Werbefirma ein Thema initiiert und alles im Auftrag eines Konzerns so darstellt wie dieser Konzern das will?
