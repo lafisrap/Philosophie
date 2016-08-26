@@ -1,10 +1,10 @@
-# initiative Demokratie - Philosophie 
+# initiative Demokratie - Grundgedanken
 
-Dies die Webseite und schriftlicher Inhalt der Philosophie, die der initiativen Demokratie zugrunde liegt.
+Dies ist die offizielle Webseite der Grundgedanken der initiativen Demokratie.
 
 ## Installation
 
-Die Webseite basiert auf [Hugo](//gohugo.io/), Hugo auf der Programmiersprache [go](//golang.org/).
+Die Webseite basiert auf [Hugo](//gohugo.io/), einer statischen Website-Engine. Hugo basiert wiederum auf der Programmiersprache [go](//golang.org/).
 
 1) Zunächst muss also go [heruntergeladen und installiert](//golang.org/dl/) werden.
 
@@ -12,7 +12,7 @@ Die Webseite basiert auf [Hugo](//gohugo.io/), Hugo auf der Programmiersprache [
 
 `go get github.com/spf13/hugo`
 
-Danach sollte der Befehl `hugo` im Verzeichnis `$GOPATH/bin/` zur Verfügung stehen.
+ausgeführt werden. Danach sollte der Befehl `hugo` im Verzeichnis `$GOPATH/bin/` zur Verfügung stehen.
 
 3) Mit
 
@@ -20,17 +20,28 @@ Danach sollte der Befehl `hugo` im Verzeichnis `$GOPATH/bin/` zur Verfügung ste
 
 kann dann dieses Projekt hier installiert werden.
 
+4) Für die Dokumente wird zusätzlich das Programm `Asciidoctor` benötigt:
+
+`sudo gem install asciidoctor`
+
+Das Programm `gem` ist aus der Rubywelt und kann unter Debian mit
+
+`sudo apt-get install rubygems`
+
+installiert werden.
+
+
 ## Bearbeiten
 
 Mit dem Kommando `hugo server` wird die Webseite lokal unter der Adresse `localhost:1313` zur Verfügung gestellt.
 Das Kommando `hugo` ohne `server` baut die Webseite und hinterlegt sie im Verzeichnis `public`.
 Dieses Verzeichnis kann auf einen Webserver kopiert werden.
 
-Die einzelnen Grundgedanken der Philosophie sind im Verzeichnis `data/philosophy` zu finden.
+Die einzelnen Grundgedanken der Philosophie sind im Verzeichnis `data/philosophy` zu finden, pro Gedanke eine Datei.
 Die Datei `config.toml` enthält die meisten anderen Texte der Webseite.
-Die Grundstruktur der Webseite ist in `layout/index.html` definiert, die einzelnen Bereiche der Webweite im Verzeichnis `layout/partials`.
+Die Grundstruktur der Webseite ist in `layout/index.html` definiert, die einzelnen Bereiche der Webseite im Verzeichnis `layout/partials`.
 
-Weitere Informationen zur Struktur der Webseite und dem verwendeten Theme findest du [hier](themes/hugo-creative-theme/README.md).
+Weitere Informationen zur Struktur der Webseite und dem verwendeten Theme findest du [hier](/themes/hugo-creative-theme/README.md).
 
 ## Beitragen ...
 
