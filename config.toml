@@ -1,0 +1,104 @@
+baseurl = "http://localhost:1313"
+languageCode = "de-DE"
+title = "initiative Demokratie"
+theme = "hugo-creative-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more informtion take a look at the README.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "initiative Demokratie"
+	description = "Demokratie, die nächste Stufe. (Auflösung von Machtkonzentrationen)"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "initiative Demokratie"
+
+		[params.navigation.links]
+			about     = "Was ist \"initiative Demokratie\"?"
+			philosophy = "Gedankliche Grundlage"
+			clips  = "Erklär-Videos"
+			initiatives = "Initiativen"
+			contact   = "Mitmachen"
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "initiative Demokratie"
+		subtitle   = "Es ist Zeit für die nächste Stufe."
+		buttonText = "Mehr ..."
+
+
+	# About section
+	[params.about]
+		headline    = "Was ist „initiative Demokratie“?"
+		description = [
+			"Der Gedanke der Demokratie lebt in den Herzen der Menschen. Er steht für Freiheit, Selbstverwirklichung, selbstbestimmtes Leben, Schutz der Privatsphäre. Demokratie ist der Nachfolger von Königreichen, die Alternative zu Diktaturen.", 
+			"Aber wie viele Menschen leben in westlichen Demokratien tatsächlich ihren Traum? Wie viele werden _nicht_ vom Leben gezwungen, etwas zu arbeiten, was sie eigentlich nicht arbeiten wollen? Ist das individuelle, private Leben wirklich heilig? Wie viele fühlen sich ohnmächtig gegenüber den machtvollen Institutionen, die uns umgeben? Und: Kann man mit Wahlen wirklich die Macht auf das Volk verteilen, wie das das Wort Demokratie (Demos = Volk, kratein = herrschen) suggeriert? Sicherlich nicht. Wer wählt, gibt seine Macht ab.",
+			"initiative Demokratie ist eine reale Mitmach-Demokratie. Sie fußt auf bewährten Prinzipien, die vor allem im Internet über Jahrzehnte ihre Funktionsfähigkeit und Stabilität bewiesen haben. Die Besten einer Volksgemeinschaft entwickeln die Gesetze und Geschmeinschaftsvorhaben, für alle in jedem Schritt transparent nachvollziehbar. Jeder versteht die Bedeutung und Wirkung dieser Gesetze und Vorhaben. Und Politiker konzentrieren sich auf die Vertretung des Volkes, sie vertreten, was im Volk lebt, sie bringen nicht Gesetze und Vorhaben voran, vermitteln Kompromisse zwischen Interessengruppen und verwenden auch nicht einen erheblichen Teil ihrer Zeit für Eigenwerbung.",
+			"Für solche grundlegenden Änderungen braucht es eine unzerstörbare Grundlage, Grundideen, die stärker sind als Macht, so stark wie z.B. die Mathematik. Keine Macht der Welt kann sie manipulieren oder außer Kraft setzen. Solche Prinzipien gibt es. Sie sind erprobt und praktisch anwendbar. Sie bilden die Grundlage für eine neue Stufe der Demokratie.",
+		]
+		buttonText  = "Die Grundgedanken"
+
+
+	# Service section
+	[params.services]
+		headline = ""
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "initative Demokratie"
+            description = "Stammtisch Berlin"
+
+        [[params.services.list]]
+			icon = "fa-github"
+			title = "Mitmachen in Github"
+			description = "Das Projekt lebt in Github"
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "InitHub"
+            description = "Hier beginnt die nächste Stufe der Demokratie. (in Vorbereitung)"
+
+        [[params.services.list]]
+            icon = "fa-heart"
+            title = "Starte dein Projekt"
+            description = "(in Vorbereitung)"
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Philosophy section
+	[params.philosophy]
+		headline = "Grundgedanken der initiativen Demokratie"
+
+		[params.philosophy.button]
+			text = "Tritt ein ..."
+			link = "philosophy"
+
+	# Contact section
+	[params.contact]
+		headline = "Willst du mitmachen?"
+		description = "..."
+		email = "michael@c2064.org"

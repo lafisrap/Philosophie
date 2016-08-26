@@ -1,0 +1,25 @@
+{{ "<!-- PHILOSOPHY -->" | safeHTML }}
+<section class="bg-dark no-padding" id="philosophy">
+	<div class="philosophy-caption">Grundgedanken</div>
+    <div class="container-fluid">
+        <div class="row no-gutter">
+            {{ range .Site.Data.philosophy }}
+            <div class="col-lg-4 col-sm-6">
+                <a href="#philosophyModal{{ .modalID }}" class="philosophy-box philosophy-link" data-toggle="modal">
+                    <img src="img/philosophy/{{ .img }}" class="img-responsive" alt="">
+                    <div class="philosophy-box-caption">
+                        <div class="philosophy-box-caption-content">
+                            <div class="project-category text-faded">
+                                {{ .category }}
+                            </div>
+                            <div class="chapter">
+                                {{ .title }}
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
