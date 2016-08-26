@@ -41,7 +41,7 @@ Die einzelnen Grundgedanken der Philosophie sind im Verzeichnis `data/philosophy
 Die Datei `config.toml` enthält die meisten anderen Texte der Webseite.
 Die Grundstruktur der Webseite ist in `layout/index.html` definiert, die einzelnen Bereiche der Webseite im Verzeichnis `layout/partials`.
 
-Weitere Informationen zur Struktur der Webseite und dem verwendeten Theme findest du [hier](https://github.com/digitalcraftsman/hugo-creative-theme/README.md).
+Weitere Informationen zur Struktur der Webseite und dem verwendeten Theme findest du [hier](https://github.com/digitalcraftsman/hugo-creative-theme/blob/master/README.md).
 
 ## Beitragen ...
 
